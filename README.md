@@ -6,10 +6,10 @@ This code has been eecuted in Visual Studio Code
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(example());
+  runApp(GeeksforGeeks());
 }
 
-class example extends StatelessWidget {
+class GeeksforGeeks extends StatelessWidget {
   Widget build(BuildContext context) {
     // Material App
     return MaterialApp(
